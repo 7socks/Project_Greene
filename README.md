@@ -3,7 +3,7 @@
 A donations website where users can create donation listings, browse items up for donation, and connect with other users.
 Created by a team of 8 software engineers in roughly 1.5 weeks.
 
-This readme is intended to highlight the contributions of a single developer (@7socks).
+This readme is intended to highlight the contributions of a single developer ([@7socks](https://github.com/7socks)).
 
 ## Table of Contents
 1. [Description](#description)
