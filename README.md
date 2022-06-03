@@ -23,5 +23,7 @@ The image upload component was custom built using HTML5 form elements rather tha
 This project was built using [React](https://reactjs.org) with React hooks, [Express](https://expressjs.com), [Babel](https://babeljs.io), and [Webpack](https://webpack.js.org). Key libraries include [styled components](https://styled-components.com) and [react icons](https://react-icons.github.io/react-icons). Images uploaded via the donation page are stored using [Firebase](https://firebase.google.com).
 
 ## Screenshots
+**Home page**
 ![home page](.readme_images/homepage.png)
+**Donation page**
 ![donation page](.readme_images/donationpage.png)
