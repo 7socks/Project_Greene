@@ -6,9 +6,9 @@ Created by a team of 8 software engineers in roughly 1.5 weeks.
 This readme is intended to highlight the contributions of a single developer (@7socks).
 
 ## Table of Contents
-1. Description
-2. Technologies
-3. Screenshots
+1. [Description](#description)
+2. [Technologies](#technologies)
+3. [Screenshots](#screenshots)
 
 ## Description
 Project Greene was designed based upon an initial concept provided by a client via video meetings. The major features include a search and browse page, donation submission page, a current and past transactions page with support for text and video chat, and distinct user roles for regular users and verified charities.
