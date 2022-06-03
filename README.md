@@ -16,7 +16,7 @@ Project Greene was designed based upon an initial concept provided by a client v
 ...
 
 ## Technologies
-This project was built using [React](reactjs.org) with React hooks, [Express](expressjs.com), [Babel](babeljs.io), and [Webpack](webpack.js.org). Key libraries include [styled components]() and [react icons](). Images uploaded via the donation page are stored using [Firebase](firebase.google.com).
+This project was built using [React](https://reactjs.org) with React hooks, [Express](https://expressjs.com), [Babel](https://babeljs.io), and [Webpack](https://webpack.js.org). Key libraries include [styled components](https://styled-components.com) and [react icons](https://react-icons.github.io/react-icons). Images uploaded via the donation page are stored using [Firebase](https://firebase.google.com).
 
 ## Screenshots
 ![home page](.readme_images/homepage.png)
